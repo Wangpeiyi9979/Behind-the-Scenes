@@ -22,7 +22,7 @@ for n in ${N[@]};do
             --seed=${seed} \
             --save_opt=Glove_${DATASET}_${n}_${k}_${sample_method}_${seed}  \
             --log_dir=Glove_${DATASET}_4tune.txt \
-            --early_stop=3
+            --early_stop=1
         done
       done
     done
