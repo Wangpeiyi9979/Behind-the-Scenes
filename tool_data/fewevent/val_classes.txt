@@ -1,0 +1,10 @@
+Transaction.Transaction
+Transaction.Transfer-Money
+Movement.Transport-Artifact
+Movement.Transport
+Movement.Transportperson
+Transaction.Transfer-Ownership
+Military.Military-Command
+Military.Military-Service
+Organization.Organization-Board-Membership
+Organization.Leadership
