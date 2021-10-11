@@ -3,7 +3,7 @@ N=(5 10)
 K=(5 10)
 sample_methods=(normal trigger_uniform blurry_uniform)
 seeds=(1 2 3)
-DATASET=wsdm
+DATASET=maven
 # shellcheck disable=SC2068
 for n in ${N[@]};do
   for k in ${K[@]};do

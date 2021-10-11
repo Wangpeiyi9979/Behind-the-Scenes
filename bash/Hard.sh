@@ -3,8 +3,7 @@ N=(5 10)
 K=(5 10)
 seeds=(1 2 3)
 sample_methods=(normal trigger_uniform blurry_uniform)
-DATASET=wsdm
-
+DATASET=maven
 for n in ${N[@]};do
   for k in ${K[@]};do
       for sample_method in ${sample_methods[@]};do
