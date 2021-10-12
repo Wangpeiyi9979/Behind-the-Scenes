@@ -5,7 +5,7 @@
 - FewEvent
     - already in `dataset/fewevent_origin_data`
 - wordvector
-    - [download](https://apache-mxnet.s3.cn-north-1.amazonaws.com.cn/gluon/embeddings/glove/glove.6B.zip) `glove.6B.300d.txt`, and put it under the filt `tool_data`
+    - [download](https://apache-mxnet.s3.cn-north-1.amazonaws.com.cn/gluon/embeddings/glove/glove.6B.zip) `glove.6B.300d.txt`, and put it under the file `tool_data`
 
 # Environment
 ```
