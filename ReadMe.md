@@ -49,12 +49,17 @@ Thanks
 for providing the `Maven` dataset.
 and
 ```
-@inproceedings{deng2020meta,
-  title={Meta-learning with dynamic-memory-based prototypical network for few-shot event detection},
-  author={Deng, Shumin and Zhang, Ningyu and Kang, Jiaojian and Zhang, Yichi and Zhang, Wei and Chen, Huajun},
-  booktitle={Proceedings of the 13th International Conference on Web Search and Data Mining},
-  pages={151--159},
-  year={2020}
+@inbook{10.1145/3459637.3482236,
+author = {Wang, Peiyi and Xun, Runxin and Liu, Tianyu and Dai, Damai and Chang, Baobao and Sui, Zhifang},
+title = {Behind the Scenes: An Exploration of Trigger Biases Problem in Few-Shot Event Classification},
+year = {2021},
+isbn = {9781450384469},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3459637.3482236},
+booktitle = {Proceedings of the 30th ACM International Conference on Information &amp; Knowledge Management},
+pages = {1969–1978},
+numpages = {10}
 }
 ```
 for providing the `FewEvent` dataset.
