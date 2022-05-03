@@ -28,13 +28,13 @@ you will get the results:
 # Citation
 If you use our code and data in your work, please cite our paper:
 ```
-@inproceedings{10.1145/3459637.3482236,
+@inproceedings{wang2021behind,
   title={Behind the Scenes: An Exploration of Trigger Biases Problem in Few-Shot Event Classification},
   author={Wang, Peiyi and Xun, Runxin and Liu, Tianyu and Dai, Damai and Chang, Baobao and Sui, Zhifang},
   booktitle={Proceedings of the 30th ACM International Conference on Information \& Knowledge Management},
   pages={1969--1978},
   year={2021},
-  url = {https://doi.org/10.1145/3459637.3482236},
+  url={https://doi.org/10.1145/3459637.3482236}
  
 }
 ```
