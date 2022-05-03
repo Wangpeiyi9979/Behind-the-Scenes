@@ -28,17 +28,14 @@ you will get the results:
 # Citation
 If you use our code and data in your work, please cite our paper:
 ```
-@inbook{10.1145/3459637.3482236,
-    author = {Wang, Peiyi and Xun, Runxin and Liu, Tianyu and Dai, Damai and Chang, Baobao and Sui, Zhifang},
-    title = {Behind the Scenes: An Exploration of Trigger Biases Problem in Few-Shot Event Classification},
-    year = {2021},
-    isbn = {9781450384469},
-    publisher = {Association for Computing Machinery},
-    address = {New York, NY, USA},
-    url = {https://doi.org/10.1145/3459637.3482236},
-    booktitle = {Proceedings of the 30th ACM International Conference on Information &amp; Knowledge Management},
-    pages = {1969–1978},
-    numpages = {10}
+@inproceedings{10.1145/3459637.3482236,
+  title={Behind the Scenes: An Exploration of Trigger Biases Problem in Few-Shot Event Classification},
+  author={Wang, Peiyi and Xun, Runxin and Liu, Tianyu and Dai, Damai and Chang, Baobao and Sui, Zhifang},
+  booktitle={Proceedings of the 30th ACM International Conference on Information \& Knowledge Management},
+  pages={1969--1978},
+  year={2021},
+  url = {https://doi.org/10.1145/3459637.3482236},
+ 
 }
 ```
 
